@@ -9,7 +9,7 @@ This implementation allows recognition of multiple faces and the registration of
 
 # How to run:
 The code is tested in python 3.7.8 and macOS Catalina
-python Face_info.py --input webcam
+<pre><code>python Face_info.py --input webcam </code></pre>
 ![alt text](https://github.com/juan-csv/Face_info/blob/master/results/Face_ID.gif)
 
 
