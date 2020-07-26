@@ -19,6 +19,9 @@ running over an image
 ![alt text](https://github.com/juan-csv/Face_info/blob/master/results/result.png)
 
 
+# Add new faces to the database (facial recognition)
+You can add new users to the faces database simply by adding the person's photo in the **images_db** folder, for the registry to work correctly, only the person of interest should appear in the photo.
+
 # References
 
 - **Emotion detection:** https://github.com/juan-csv/emotion_detection
